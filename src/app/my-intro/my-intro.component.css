@@ -1,0 +1,28 @@
+#introduction {
+	font: small-caps;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 5px;
+	font-family: Merriweather;
+	font-size: 1.50em;
+}
+
+h1.name {
+	color:#334d4d;
+}
+
+h4.profile-links {
+	color: #476b6b;
+	font-weight: normal;
+}
+
+h3.current {
+	color: #83888A !important;
+	font-weight: normal !important;
+	font-style: italic !important;
+	font-size: 0.8em;
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+

@@ -1,0 +1,46 @@
+#my-education {
+	font: small-caps;
+	text-align: center;
+	font-weight: bold;
+	align-content: center;
+	font-family: Merriweather;
+	font-size: 1.00em;
+}
+
+h1.title {
+	/*color: #800040;*/
+	color: #2079c7;
+	font-weight: normal;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: larger;
+	text-align: left;
+	padding-left: 10%;
+}
+
+table {
+	margin: auto;
+	font-size: larger;
+	border: none;
+	width: 80%;
+}
+
+td.key {
+	text-align: left;
+	font-weight: normal;
+	width: 60%;
+	vertical-align: text-top;
+	color: #83888A;
+	font-size: 0.815em;
+}
+
+td.value {
+	text-align: right;
+	font-weight: normal;
+	font-size: 0.815em;
+	width: 40%;
+	word-wrap: normal;
+	color: #83888A;
+}

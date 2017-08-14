@@ -1,0 +1,38 @@
+#about-me {
+	font: small-caps;
+	text-align: center;
+	font-weight: bold;
+	align-content: center;
+	font-family: Merriweather;
+	font-size: 1.00em;
+}
+
+h1.title {
+	/*color: #800040;*/
+	color: #2079c7;
+	font-weight: normal;
+}
+
+table {
+	margin: auto;
+	font-size: larger;
+	border: none;
+	width: auto;
+}
+
+td.key {
+	text-align: left;
+	font-weight: normal;
+	width: 40%;
+	vertical-align: text-top;
+	padding-left: 15%;
+}
+
+td.value {
+	text-align: left;
+	font-weight: normal;
+	padding-left: 10px;
+	width: 80%;
+	word-wrap: break-word;
+	color: #83888A;
+}
